@@ -6,7 +6,7 @@ row1 = ["⬜️","⬜️","⬜️"]
 row2 = ["⬜️","⬜️","⬜️"]
 row3 = ["⬜️","⬜️","⬜️"]   
 map = [row1, row2, row3]
-print("Write two number from 1 to 3 to place an X in the coordinates")
+print("Write two numbers from 1 to 3 to place an X in the coordinates")
 print("the first number for columns, the second for rows\n")
 print("          1     2     3\n")
 print(f"    1   {row1}\n    2   {row2}\n    3   {row3}\n")
